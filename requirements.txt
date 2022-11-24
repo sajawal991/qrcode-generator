@@ -1,0 +1,4 @@
+os
+qrcode
+pyfiglet
+time
